@@ -12,8 +12,8 @@
 项目的定义，项目逻辑模型，归因问题，研究设计。[课程资料](https://pan.baidu.com/s/1dMqdOLfE11ltMcQTjBc2Ug)
 （提取码：1234，下同）  
   
-**美国的绩效预算**
-1993->2010->当前。[课程资料](https://pan.baidu.com/s/1c_eDnwgFRrQ6F8bYnyI81Q）
-
-## 作业（叶兵部分）  
-小组作业
+**美国的绩效预算**  
+1993->2010->当前。[课程资料](https://pan.baidu.com/s/1c_eDnwgFRrQ6F8bYnyI81Q)  
+  
+## 作业（叶兵部分）   
+[小组作业](https://github.com/bingyenufe/perf_budget_2021/blob/main/grouphw.md)

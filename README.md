@@ -20,4 +20,5 @@
 
 
 ## 上课录屏  
-待添加
+第15周第1小节课[录屏](http://aiplay.iflyink.com/#/webShare?localId=f782d6781c0fce06373bd397c23f915c&uid=VgqtpXV8pURO8mROKSkDGa0MR02x9AM/4K6Ec2gSNrngPWSb/sx0DvTzTAG7zlUzzl3%2BkVqNJLXCtj5FfPvu778/VJRhxXIBqtJ5ZT3kY9Ipje3t5N%2BImyKEjPgYohbIMV7oSh%2BD0AYKFzTpUH3WWd8VMKWFk4EyEKpn51DOGG0=)  
+第15周第2小节课[录屏](http://aiplay.iflyink.com/#/webShare?localId=7c93bccb33001dc968cef19562cccb7b&uid=VgqtpXV8pURO8mROKSkDGa0MR02x9AM/4K6Ec2gSNrngPWSb/sx0DvTzTAG7zlUzzl3%2BkVqNJLXCtj5FfPvu778/VJRhxXIBqtJ5ZT3kY9Ipje3t5N%2BImyKEjPgYohbIMV7oSh%2BD0AYKFzTpUH3WWd8VMKWFk4EyEKpn51DOGG0=)  
